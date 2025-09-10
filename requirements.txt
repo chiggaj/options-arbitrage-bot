@@ -1,0 +1,19 @@
+# Core dependencies
+requests
+python-dotenv
+
+# Async + scheduling (if you’re doing async calls or timing loops)
+aiohttp
+aiodns
+
+# Data & analysis
+pandas
+numpy
+
+# Visualization & reporting
+matplotlib
+openpyxl   # for Excel export
+xlsxwriter # optional, but makes nicer Excel files
+
+# Optional: if you want progress bars, logging extras, etc.
+tqdm
